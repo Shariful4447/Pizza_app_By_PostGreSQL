@@ -1,0 +1,10 @@
+1.Download the zip File.
+2.Install Bitnami Wamp stack manager.
+3.Extract and copy pizza_app folder to this C:\Bitnami\wappstack\apache2\htdocs.
+4. Open phpgadmin,login to postgresql create database name pizza_app
+ import the database file
+
+5. Now select any browser and type http://localhost/pizza_app/
+6. Use username and password as follow shuvo4447 and 4447  or create username and password by using in the database.
+
+
